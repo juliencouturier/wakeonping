@@ -4,7 +4,7 @@ Wake on ping send a wake on lan to the specified mac address  when the specified
 ## Requirements
 The only requierments is :
 * wakeonlan
-`pip install -r requierements.txt`
+`pip install -r requirements.txt`
 
 ## Run
 The script takes 2 arguments : 
